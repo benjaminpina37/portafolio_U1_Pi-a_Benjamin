@@ -1,0 +1,5 @@
+Proyecto recibido de un integrante anterior.
+D=150, H=300.
+Usar el archivo FINAL_v2, creo.
+El gráfico se exportó aparte.
+Revisar unidades antes de entregar.
